@@ -1,0 +1,6 @@
+# 忽略指定数据集文件夹
+dataset/
+wideperson/
+
+# 默认YOLOv8训练生成的文件
+runs/
