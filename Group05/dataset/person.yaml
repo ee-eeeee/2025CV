@@ -1,9 +1,0 @@
-train: E:/idkwhatb/ee/2025CV/Group05/dataset/labels\train.txt
-val: E:/idkwhatb/ee/2025CV/Group05/dataset/labels\val.txt
-test: E:/idkwhatb/ee/2025CV/Group05/dataset/labels\val.txt
-
-# number of classes
-nc: 1
-
-# class names
-names: ['people']
