@@ -1,0 +1,15 @@
+{
+    "emotion_colors": {
+        "others": "#1E90FF",
+        "happiness": "#FFD700",
+        "sadness": "#FF6347",
+        "surprise": "#808080",
+        "disgust": "#00CED1",
+        "repression": "#90EE90",
+        "fear": "#800080"
+    },
+    "max_frames": 600,
+    "frame_rate": 30,
+    "detection_interval": 20,
+    "model_path": "emotion_recognition_model.h5"
+}
