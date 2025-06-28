@@ -1,5 +1,0 @@
-文件功能 基于mediapipe的人体动作识别
-
-运行环境 Python 3.9
-
-需要PyQt5、mediapipe、cv2
