@@ -1,0 +1,12 @@
+├── dataset.yaml
+├── train
+│   ├── images  [172626 entries exceeds filelimit, not opening dir]
+│   ├── labels  [172626 entries exceeds filelimit, not opening dir]
+│   └── labels.cache
+└── val
+    ├── images  [58931 entries exceeds filelimit, not opening dir]
+    ├── labels  [58931 entries exceeds filelimit, not opening dir]
+    └── labels.cache
+
+
+
