@@ -1,0 +1,6 @@
+train: mydata/images/train
+test: mydata/images/test
+val: mydata/images/val
+
+nc: 1
+names: ['cell']
